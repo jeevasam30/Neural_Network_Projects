@@ -74,19 +74,19 @@ Applies BERT model pretraining for enhanced performance.
 ![Screenshot 2024-01-14 170247](https://github.com/jeevasam30/Neural_Network_Projects/assets/69844137/845b0a8e-a408-431f-938d-8b53dd05ec56)
 
 # Package Used:
-scikit-learn (sklearn)
-Matplotlib
-NumPy
-Pandas
-spaCy
-TensorFlow
-tensorflow_text
-tensorflow_hub
+scikit-learn (sklearn)<br/>
+Matplotlib<br/>
+NumPy<br/>
+Pandas<br/>
+spaCy<br/>
+TensorFlow<br/>
+tensorflow_text<br/>
+tensorflow_hub<br/>
 
-# Obervation 
+# Observation 
 The observed performance graph indicates that the baseline model outperformed certain other models. This observation raises the possibility of data-related factors influencing the results. Further investigation into the data characteristics is warranted to gain deeper insights and refine the models accordingly.
 
-# Refernce: 
+# Reference: 
 https://github.com/mrdbourke/tensorflow-deep-learning
 
 https://www.cloudskillsboost.google/course_sessions/7311196/documents/437740
