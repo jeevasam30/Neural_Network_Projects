@@ -1,6 +1,6 @@
 # Neural Network Projects Repository
 
-This repository contains two main folders:
+This repository contains three main folders:
 
 1. **NN_projects**: This folder contains neural network projects that utilize Keras API for implementation,The goal here is to understand the baseline models of neural network.
 
