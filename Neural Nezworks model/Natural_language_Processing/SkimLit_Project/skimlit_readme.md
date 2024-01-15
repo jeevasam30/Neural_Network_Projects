@@ -83,8 +83,18 @@ TensorFlow<br/>
 tensorflow_text<br/>
 tensorflow_hub<br/>
 
-# Observation 
+# Observation and Future Advancements.
 The observed performance graph indicates that the baseline model outperformed certain other models. This observation raises the possibility of data-related factors influencing the results. Further investigation into the data characteristics is warranted to gain deeper insights and refine the models accordingly.
+
+Enhanced Datasets: Maximize accuracy through careful dataset corrections and expansions.
+
+Resource Optimization: Optimize computational resources for improved efficiency.
+
+BERT on Expanded Data: Extend BERT model application to a larger dataset for enhanced understanding.
+
+API Development: Create an API for seamless integration with other systems.
+
+Stay tuned for these exciting advancements!
 
 # Reference: 
 https://github.com/mrdbourke/tensorflow-deep-learning
